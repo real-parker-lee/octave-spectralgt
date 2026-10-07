@@ -1,0 +1,26 @@
+# VERSION 0.2.1:
+## Changes:
+- Fixed `nonbtmat` to work with graphs having both directed and undirected edges.
+## To-Do:
+- Incidence Matrices?
+
+# VERSION 0.2.0:
+## Changes:
+- Documented all functions
+- Changed `adjmat` to accept the number of vertices as an argument, to allow unconnected graphs.
+## To-Do:
+Nothing yet.
+
+# VERSION 0.1.0:
+## Changes:
+- Added function `adjmat`. Takes strings of the form "#<->#" or "#->#" denoting undirected and directed edges respectively.
+## To-Do:
+- Add documentation to functions.
+
+# VERSION 0.0.0:
+## Changes:
+- initialized package structure
+- added functions `degmat`, `ihara`, `laplacian`, `nonbtmat`.
+## To-Do:
+- Add documentation to functions
+- Add function to build adjacency matrix from edge-set.
