@@ -2,7 +2,7 @@ Name: octave-spectralgt
 Version: 0.2.1
 Date: 2026-04-10
 Author: Parker Lee (parkerlee4747+gtoct@proton.me)
-Maintainer: Parker Lee (parkerlee4747+gtoct@proton.me)
+Maintainer: Parker Lee (parkerlee4747+octsgt@proton.me)
 Title: Spectral Graph Theory
 Description: Spectral graph theory utilities and functions.
 License: AGPL-3.0-only
