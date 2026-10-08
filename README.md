@@ -13,4 +13,4 @@ pkg install octave-spectralgt.tar.gz
 pkg load octave-spectralgt
 ```
 
-If you're not using a POSIX-compatible OS (like Windows), download the package from the releases tab.
+Alternatively, look for a prebuilt package in the releases tab.
