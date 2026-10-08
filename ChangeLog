@@ -1,3 +1,10 @@
+# VERSION 0.2.2:
+## Changes:
+- Generated Documentation file
+- Wrote Citation file.
+## To-Do:
+- Incidence Matrices?
+
 # VERSION 0.2.1:
 ## Changes:
 - Fixed `nonbtmat` to work with graphs having both directed and undirected edges.

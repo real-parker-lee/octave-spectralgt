@@ -1,0 +1,7 @@
+BibTeX entry:
+@manual{,
+  title    = {{Octave SpectralGT} version 0.2.2 manual: a function library bringing spectral graph theory functions to GNU Octave.},
+  author   = {Parker Lee},
+  year     = {2026},
+  url      = {https://github.com/real-parker-lee/octave-spectralgt}
+}
