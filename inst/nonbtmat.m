@@ -27,7 +27,6 @@ function retval = nonbtmat (Adj)
       endif
     end
   end
-  tempA
   vertcount = transpose(tempA * ones(columns(tempA),1)) * ones(columns(tempA),1);
   for inb = 1:columns(tempA)
     for jnb = 1:columns(tempA)
