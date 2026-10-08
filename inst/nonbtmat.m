@@ -1,7 +1,10 @@
+## -*- texinfo -*-
 ## @deftypefn {octave-spectralgt} {} nonbtmat (@var{Adj})
 ##
 ## Construct the non-backtracking matrix of the graph represented by the
 ## Adjacency matrix @var{Adj}.
+##
+## @end deftypefn
 
 function retval = nonbtmat (Adj)
   dim = columns(Adj);

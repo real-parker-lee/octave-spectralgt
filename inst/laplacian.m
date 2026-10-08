@@ -1,3 +1,4 @@
+## -*- texinfo -*-
 ## @deftypefn {octave-spectralgt} {} laplacian (@var{Adj})
 ##
 ## Computes the laplacian matrix of the graph represented by the adjacency

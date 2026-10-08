@@ -1,3 +1,4 @@
+## -*- texinfo -*-
 ## @deftypefn {octave-spectralgt} {} degmat (@var{A})
 ##
 ## Construct the Degree Matrix of the graph represented by the adjacency matrix

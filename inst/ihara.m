@@ -1,3 +1,4 @@
+## -*- texinfo -*-
 ## @deftypefn {octave-spectralgt} {} ihara (@var{Adj})
 ##
 ## Construct the Ihara matrix of the graph represented by the given adjacency
